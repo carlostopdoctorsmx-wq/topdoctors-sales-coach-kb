@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://carlostopdoctorsmx-wq.github.io/topdoctors-sales-coach-kb/sitemap.xml
